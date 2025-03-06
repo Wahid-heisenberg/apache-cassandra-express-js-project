@@ -86,3 +86,5 @@ npm run dev
 
 - This application uses direct CQL queries instead of an ORM
 - The search implementation is performed in-memory due to Cassandra's limitations with text search
+
+# Apache Cassandra Documentation
